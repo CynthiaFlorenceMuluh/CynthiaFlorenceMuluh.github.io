@@ -1,0 +1,20 @@
+body{
+    background-color: blueviolet;
+    color:white;
+}
+select{
+    color:rgb(0, 0, 120);
+    margin-bottom: 40px;
+}
+.menu-item{
+    border:1px solid #ddd;
+    padding:10px;
+    text-align: center;
+   /* width:250px;*/
+    display: inline-block;
+    margin:20px;
+    margin-top: 30px;
+    flex-wrap: wrap;
+    color:rgb(0, 0, 0);
+    
+}
