@@ -1,3 +1,4 @@
+@media (max-width:10000px) {
 body{
     background-color: blueviolet;
     color:white;
@@ -17,4 +18,5 @@ select{
     flex-wrap: wrap;
     color:rgb(0, 0, 0);
     
+}
 }
